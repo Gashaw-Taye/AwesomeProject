@@ -49,14 +49,7 @@ const styles = StyleSheet.create({
     backgroundColor:'grey',
     padding: 60
   },
-  nestedcontainer: {
-    display: 'flex',
-    width: 200,
-    height: 200,
-    backgroundColor: 'green',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
+
   inputcontainer: {
     flexDirection: 'row',
     paddingBottom: 30,
